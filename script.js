@@ -4,7 +4,7 @@ function addIng(arr){
 //your code here
 }
 
-console.log(addIng(["eat", "sleep", "read"]);
+console.log(addIng(["eat", "sleep", "read"]));
             
 /*
 write a function that takes in a string and turns it into pig latin example: cat = atcay 
