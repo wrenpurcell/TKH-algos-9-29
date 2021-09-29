@@ -1,5 +1,5 @@
 //write a function that adds 'ing' to an array of verbs and returns them as a new array
-//bonus: make it work with verbs that end in a vowel, exampe: dance -> dancing 
+//bonus: make it work with verbs that end in a vowel, example: dance -> dancing 
 function addIng(arr){
 //your code here
 }
@@ -7,7 +7,7 @@ function addIng(arr){
 console.log(addIng(["eat", "sleep", "read"]);
             
 /*
-write a function that takes in a string and turns it into pig latin ex cat = atcay 
+write a function that takes in a string and turns it into pig latin example: cat = atcay 
 if the word starts with a vowel, you should add 'yay' to the end. example: apple = appleyay
 return the new pig latin string
 */
